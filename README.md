@@ -95,7 +95,8 @@ Here's a sentence with a footnote. [^2]
 ---
 ## Heading ID
 	
-### My Great Heading {#custom-id}
+term
+: definition
 
  
 ---
