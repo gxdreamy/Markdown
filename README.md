@@ -114,9 +114,7 @@ Here's a sentence with a footnote. [^2]
 ---
 ## Insert Subscript
 
-H~1~<BR>
-	x^2^
-
+http://www.example.com
 
 
 
