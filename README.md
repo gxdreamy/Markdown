@@ -82,3 +82,8 @@ At the command prompt, enter `nano`.
 ## Online Resource
 1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 2. [Detailed Markdown Tutorial](https://www.markdownguide.org/basic-syntax/#bold)
+
+---
+## Contributor
+<https://www.markdownguide.org>
+<fake@example.com>
