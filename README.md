@@ -112,12 +112,9 @@ Here's a sentence with a footnote. [^2]
 :tent:
 
 ---
-## Insert Subscript
+## Insert url Link
 
 http://www.example.com
-
-
-
  
 ---
 ## Insert Image
