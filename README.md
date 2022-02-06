@@ -39,8 +39,8 @@ This is paragraph 10.
 
 1. First
 2. Second
-  3.frist
-  2.second
+  3. frist
+  4. second
 4. Third
 
 ---
