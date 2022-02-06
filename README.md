@@ -86,4 +86,5 @@ At the command prompt, enter `nano`.
 ---
 ## Contributor
 <https://www.markdownguide.org>
+
 <fake@example.com>
