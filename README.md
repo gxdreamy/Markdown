@@ -39,8 +39,8 @@ This is paragraph 10.
 
 1. First
 2. Second
-- first
-- second
+    - first
+    - second
 4. Third
 
 ---
