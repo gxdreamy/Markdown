@@ -114,9 +114,8 @@ Here's a sentence with a footnote. [^2]
 ---
 ## Insert Subscript
 
-H~2~O
-H++2++O
-H--2--O
+H~2~O<BR>
+	x^2^
 
 
 
