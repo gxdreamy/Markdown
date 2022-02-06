@@ -114,7 +114,7 @@ Here's a sentence with a footnote. [^2]
 ---
 ## Insert Highlight
 
-dsADSDA WHY==This is a highlighted sentence
+I need to highlight these ==very important words==.
 
 
 
