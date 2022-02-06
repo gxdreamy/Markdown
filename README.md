@@ -13,6 +13,21 @@ This repo shows how to us markdown.
 Having two spaces after a line will create  a new line.  
 Another way to create a new line. <br>
 
+---
+## Enphasis
+Create a **bold font**.  
+Create *italic* words.  
+Create ***bold italic***.  
+
+---
+## Blocckquote
+
+> This is a multple paragraph 1.
+>This is a multple paragraph 1.
+>This is a multple paragraph 1.
+>> This is a multple paragraph 1.
+
+
  
 
 ---
