@@ -67,12 +67,12 @@ This is paragraph 10.
 
 At the command prompt, enter `nano`.
 
-'''
+```
     <html>
         <head>
         </head>
     </html>
-'''
+```
 
 ---
 ## Insert Table
