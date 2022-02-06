@@ -39,7 +39,8 @@ This is paragraph 10.
 
 1. First
 2. Second
-
+    - first
+    - second
 3. Third
     1. first
     2. second
@@ -56,6 +57,9 @@ This is paragraph 10.
   - second
   - third
   - four
+
+    This is a test.
+    
 - Third
 
 
