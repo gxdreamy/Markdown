@@ -77,7 +77,7 @@ At the command prompt, enter `nano`.
 ---
 ## Insert Table
 | Syntax | Description |
-|---|---|
+|-|-|
 | Header | Title |
 | Paragraph | Text |
 
