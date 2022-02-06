@@ -84,9 +84,9 @@ At the command prompt, enter `nano`.
 ---
 ## Insert Footnote
 
-Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote. [^]
 
-[^1]: This is the footnote.
+[^] This is the footnote.
 
  
 ---
