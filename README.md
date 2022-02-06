@@ -95,8 +95,7 @@ Here's a sentence with a footnote. [^2]
 ---
 ## Heading ID
 	
-term
-: definition
+~~The world is flat.~~
 
  
 ---
