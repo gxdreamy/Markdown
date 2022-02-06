@@ -114,7 +114,7 @@ Here's a sentence with a footnote. [^2]
 ---
 ## Insert Highlight
 ```
-I need to highlight these ==very important words==.
+I need to highlight these <mark>very important words</mark>.
 ```
 
 
