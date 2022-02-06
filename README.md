@@ -71,7 +71,7 @@ At the command prompt, enter `nano`.
 ---
 ## Insert Image
 
-[Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png)
+![Linux](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png)
 
 ---
 ## Online Resource
