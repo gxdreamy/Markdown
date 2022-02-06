@@ -72,6 +72,12 @@ At the command prompt, enter `nano`.
         </head>
     </html>
 
+---
+## Insert Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
  
 ---
 ## Insert Image
