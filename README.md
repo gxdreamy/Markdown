@@ -112,10 +112,12 @@ Here's a sentence with a footnote. [^2]
 :tent:
 
 ---
-## Insert Highlight
-```
-I need to highlight these <mark>very important words</mark>.
-```
+## Insert Subscript
+
+H~2~O
+H++2++O
+H--2--O
+
 
 
 
