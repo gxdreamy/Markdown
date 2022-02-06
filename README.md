@@ -68,12 +68,10 @@ This is paragraph 10.
 At the command prompt, enter `nano`.
 
 ```
-{
 <html>
     <head>
     </head>
 </html>
-}
 ```
 
 ---
@@ -82,6 +80,14 @@ At the command prompt, enter `nano`.
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+---
+## Insert Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
  
 ---
 ## Insert Image
