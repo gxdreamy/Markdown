@@ -41,8 +41,8 @@ This is paragraph 10.
 2. Second
     - first
     - second
-3. Third
-    1.first
+3. Third  
+    1.first  
     2.second 
 
 ---
