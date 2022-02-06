@@ -71,7 +71,7 @@ At the command prompt, enter `nano`.
 ---
 ## Insert Image
 
-1. ![Linux](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F35%2FTux.svg%2F800px-Tux.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinux&tbnid=LvK0SVAF2A4TsM&vet=12ahUKEwjRzcvLuOv1AhVos2oFHT0mAMwQMygAegUIARDWAQ..i&docid=JxAKWfRo80kraM&w=800&h=954&q=linux%20image&ved=2ahUKEwjRzcvLuOv1AhVos2oFHT0mAMwQMygAegUIARDWAQ)
+1. ![Linux](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinux&psig=AOvVaw3_HbvwZB7ltjN3zXLwxAxh&ust=1644249431558000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKijpe246_UCFQAAAAAdAAAAABAD)
 
 ---
 ## Online Resource
