@@ -1,6 +1,5 @@
 # Markdown
-This repo shows how to us markdown.  
-This is a new line.
+This repo shows how to us markdown.
 
 ---
 # Heading 1
@@ -9,6 +8,10 @@ This is a new line.
 #### Heading 4
 
 ---
+## New Line
+
+Having two spaces after a line will create  a new line.  
+Another way to create a new line. <br>
 
  
 
