@@ -56,10 +56,8 @@ This is paragraph 10.
   - first
   - second
   - third
-  - four
-
+  - four <br>
     This is a test.
-    
 - Third
 
 
