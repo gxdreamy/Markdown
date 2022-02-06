@@ -92,6 +92,11 @@ Here's a sentence with a footnote. [^2]
 
 [^2]: This is the footnote.
 
+---
+## Heading ID
+	
+### My Great Heading {#custom-id}
+
  
 ---
 ## Insert Image
