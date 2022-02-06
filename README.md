@@ -103,7 +103,7 @@ Here's a sentence with a footnote. [^2]
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-- [y ] dsaf  
+- [y] dsaf  
 
 
  
