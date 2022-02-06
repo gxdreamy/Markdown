@@ -113,7 +113,7 @@ Here's a sentence with a footnote. [^2]
 
 ---
 ## Insert Highlight
-==This is a highlighted sentence==
+== This is a highlighted sentence. ==
 
 
 
