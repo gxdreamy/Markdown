@@ -42,8 +42,8 @@ This is paragraph 10.
     - first
     - second
 3. Third  
-    1.first  
-    2.second 
+    1. first  
+    2. second 
 
 ---
 ## Unordered Items
