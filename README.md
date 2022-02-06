@@ -111,7 +111,9 @@ Here's a sentence with a footnote. [^2]
 :joy:<br>
 :tent:
 
-
+---
+## Insert Highlight
+==This is a highlighted sentence==
 
 
 
