@@ -1,5 +1,16 @@
 # Markdown
-This repo shows how to us markdown
+This repo shows how to us markdown.
+This is a new line.
+
+---
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+
+---
+
+ 
 
 ---
 ## Online Resource
